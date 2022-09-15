@@ -19,9 +19,7 @@ I want to achieve a lot as a software developer. I want to be a part of the team
 * Git/GitHub
 * Agile methodology
 ### Code Example
-```
-// Animation
-
+``` 
 const btn = document.querySelector('.btn');
 
 function myAnimation() {

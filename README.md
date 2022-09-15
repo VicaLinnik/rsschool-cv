@@ -1,1 +1,1 @@
-https://VicaLinnik.github.io/rsschool-cv/cv
+https://VicaLinnik.github.io/rsschool-cv/cvgit
