@@ -21,7 +21,7 @@ I want to achieve a lot as a software developer. I want to be a part of the team
 ### Code Example
 ``` 
 const btn = document.querySelector('.btn');
-
+git 
 function myAnimation() {
     const elem = document.querySelector('.box');
     let pos = 0;
